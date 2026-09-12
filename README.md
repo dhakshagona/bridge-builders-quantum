@@ -39,7 +39,7 @@ A small feature that works well is better than a large unfinished project.
 ## Project
 
 **Project Name:**  
-NeighborBridge
+Community Connect | Formerly NeighborBridge
 
 **Who are we helping?**  
 Newly arrived immigrant families navigating everyday life in the United States — especially those facing language barriers, unfamiliar systems, and limited access to local resources.
@@ -48,7 +48,7 @@ Newly arrived immigrant families navigating everyday life in the United States �
 Immigrant families often don't know where to start when they arrive in America. They struggle to find healthcare programs they qualify for, understand how the U.S. school system works, locate familiar cultural foods nearby, get their foreign work experience recognized, and connect with other families who have been through the same journey — all while worrying about privacy and language barriers.
 
 **Solution:**  
-NeighborBridge is a private, browser-based resource hub that gives immigrant families a single place to explore what's available to them. No account required, no data sent to a server — everything stays on the user's own device. Families fill in a simple profile (language, ZIP code, income, household size) and the app personalizes the information shown to them.
+Community Connect is a private, browser-based resource hub that gives immigrant families a single place to explore what's available to them. No account required, no data sent to a server — everything stays on the user's own device. Families fill in a simple profile (language, ZIP code, income, household size) and the app personalizes the information shown to them.
 
 **Main Features:**  
 - 🧑‍💼 **Family Profile & Privacy** — stores household details locally on the device; supports anonymous mode and 100+ languages  
@@ -69,13 +69,5 @@ _To be added before judging_
 - Keep `.env` files private.
 - Test the public deployed version before judging.
 - Do not wait until the last few minutes to deploy.
-
-## Final Checklist
-
-- [ ] Main feature works
-- [ ] Latest code is pushed to GitHub
-- [ ] No API keys are exposed
-- [ ] Render deployment works
-- [ ] Public link has been tested
 - [ ] Team knows who is presenting
 - [ ] Team knows who is controlling the demo
